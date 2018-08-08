@@ -49,7 +49,3 @@ To see the input types that this cmdlet accepts, see Cmdlet Input and Output Typ
 To see the return types, which are also known as output types, that this cmdlet accepts, see Cmdlet Input and Output Types (https://go.microsoft.com/fwlink/p/?linkId=616387). If the Output Type field is blank, the cmdlet doesn't return data.
 
 ## NOTES
-
-## RELATED LINKS
-
-[Online Version](https://technet.microsoft.com/library/48814519-35a5-4202-906a-9ce37e075fca.aspx)
